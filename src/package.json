@@ -1,7 +1,7 @@
 {
-  "name": "superkit",
-  "productName": "SuperKit",
-  "version": "0.2.2",
+  "name": "superkit-updated",
+  "productName": "superkit-updated",
+  "version": "1.0.0",
   "description": "An Electron starter kit with super powers.",
   "main": "./scripts/browser/main.js",
   "dependencies": {
@@ -16,10 +16,10 @@
   },
   "license": "MIT",
   "author": "Alexandru Rosianu <me@aluxian.com>",
-  "homepage": "https://github.com/Aluxian/electron-superkit",
+  "homepage": "https://github.com/willyb321/electron-superkit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aluxian/electron-superkit.git"
+    "url": "https://github.com/willyb321/electron-superkit.git"
   },
   "crashReporter": {
     "productName": "SuperKit",

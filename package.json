@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
-    "eslint": "^3.4.0"
+    "eslint": "^7.8.1"
   },
   "optionalDependencies": {
     "appdmg": "^0.4.5"
